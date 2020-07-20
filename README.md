@@ -1,3 +1,7 @@
+> [Original Post](https://www.codingforentrepreneurs.com/blog/jupyter-production-server-on-docker-heroku)
+
+[![Jupyter x Docker on Heroku Post](https://static.codingforentrepreneurs.com/media/cfe-blog/jupyter-production-server-on-docker-heroku/Jupyter_x_Docker_to_Heroku.jpg)](https://www.codingforentrepreneurs.com/blog/jupyter-production-server-on-docker-heroku)
+
 Jupyter is a tool for running interactive notebooks; basically add Python with Markdown and you've got Jupyter. if you haven't used it before, I recommend you do. 
 
 In this post, I'm going to show you how to deploy a Jupyter Notebook server on Heroku using Docker. 
